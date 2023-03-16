@@ -2,7 +2,7 @@
 Hello I'm Ignasius G Saon
 I'm UI/UX Design & Web Developer
 
-# Awesome GitHub profiles
+# Gery Saon Profile Github
 
 [![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
 
